@@ -23,11 +23,12 @@ This Generative memory block is made up of two Generator networks and one Discri
 # Results
 
 #### Graph showing the testing accuracy for two tasks with and without EWC + Generative replay
-![2task-result](https://github.com/RahulVallivel/EWC-Generative-replay/blob/master/img/Screen%20Shot%202018-12-16%20at%205.22.36%20PM.png)
+
+<img src="https://github.com/RahulVallivel/EWC-Generative-replay/blob/master/img/Screen%20Shot%202018-12-16%20at%205.22.36%20PM.png" width="548">
 
 #### Graph showing the testing accuracy for three tasks with and without EWC + Generative replay
-![3task-result](https://github.com/RahulVallivel/EWC-Generative-replay/blob/master/img/Screen%20Shot%202018-12-16%20at%205.22.07%20PM.png)
 
 
+<img src="https://github.com/RahulVallivel/EWC-Generative-replay/blob/master/img/Screen%20Shot%202018-12-16%20at%205.22.07%20PM.png" width="548">
 
 
